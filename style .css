@@ -1,0 +1,75 @@
+*{
+    padding: "0";
+    margin: "0";
+    font-family:'Times New Roman';
+    
+}
+body{
+    background-image: url("TA.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+    }
+
+
+
+.LOGIN {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    widows: 300PX;
+    
+}
+.LOGIN h1 {
+    font-size: 50px;
+    text-align: center; 
+    text-transform: uppercase;
+}
+.LOGIN p {
+    font-size: 20px;
+    font-style: inherit;
+    margin: 50px 0 ;
+    font-weight: bold;
+}
+.LOGIN input {
+    font-size: 30 px;
+    padding: 15 px 10px;
+    width: 150 px;
+    border: 0 ;
+    border-radius: 5 px;
+    outline: none ;
+    outline-color: black;
+    outline-style: double;
+}
+.LOGIN select {
+    font-size: 30;
+    padding: 15px 10 px;
+    width : 150 Px ;
+    border : o ;
+    border-radius: 5 px;
+    outline: none ;
+    outline-color: black;
+    outline-style: double;
+}
+.LOGIN button {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px o ;
+    padding: 10 px 15px;
+    width: 50 px;
+    border-radius: 5 px;
+    background-color: azure;
+    color: brown;
+    align-content: space-between;
+
+
+}
+ 
+
+
+    
+
+   
